@@ -31,7 +31,7 @@ body{
 
 
 .site-list-item{
-  margin-right: 32px;
+margin-right: 32px;
 }
 
 .site-list-action{
@@ -169,6 +169,10 @@ padding-left: 288px;
 .site-bottom-link{
   text-decoration: none;
   color: #fff;
+}
+
+.footer-top-heading{
+
 }
 
 .footer-sign{
