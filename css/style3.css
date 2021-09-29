@@ -161,8 +161,8 @@ body {
 
 }
 .hero-content {
-  width: 500px;
-  height: 293px;
+  width: 400px;
+  height: 400px;
   padding: 120px 770px 120px 170px;
 }
 .hero-image {
@@ -170,7 +170,7 @@ body {
   width: 423px;
   height: 504px;
   left: 847px;
-  top: 29px;
+  top: 127px;
 }
 .hero-heading {
   width: 500px;

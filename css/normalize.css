@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+.logo{
+  display: flex;
+}
+.logo-text{
+  font-family: 'Open sans', sans-serif;
+  font-weight: 600;
+  color: #222222;
+}
+.logo-img{
+width: 50px;
+height: 49.94px;
+left: 0px;
+top: 0px;
+}
+.sitenav{
+  display: flex;
+}
+ul{
+  list-style: none;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 600;
+}
